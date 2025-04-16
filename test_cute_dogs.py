@@ -1,5 +1,5 @@
 import unittest
-from cute_dogs import Fiona, Ellie, Jovie
+from cute_dog import Fiona, Ellie, Jovie
 
 class TestCuteDogs(unittest.TestCase):
 
