@@ -65,9 +65,9 @@ After you've accomplished this. You are ready to start using this repo.
   cd coffee-machine
 ```
 
-2. Run the script and watch the magic:
-* Stuck with the use of python3, but if you decide to use pyenv - you can decide which precise version of python to use.
-In which case, if you have your local or global environment set. You can either use `python <name of python file>.py to run.
+2. Run the script and watch the magic happen ✨
+You’ll need to run your Python script from the command line to see it in action. Depending on your setup, there are two common ways to run Python files:
+If you're using the system’s default Python installation, you'll likely need to use python3 like this:
 
 ```
 python3 coffee_machine.py
@@ -75,6 +75,12 @@ python3 cute_dog.py
 python3 everything_is_an_object_in_oop.py
 python3 <name of python file to run>.py
 ```
+
+If you’ve set up pyenv, you can choose the exact Python version you want to use. Once it's set (either locally or globally), you’ll usually just call python instead of python3, and it will point to whatever version you picked:
+```
+python everything_is_an_object_in_oop.py
+```
+
 3. Want to run tests?
 
 ```
