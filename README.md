@@ -27,25 +27,24 @@ not rigid. Just like a good cookie recipe lets you add extra chocolate chips. �
 
 So in summary:
 
-“Classes give us a way to **group related data and behavior** into one component. Just like a hardware controller manages a part of a device, a class manages a part of a software system. And the beauty is, once we build a class, we can reuse it, upgrade it, or swap it — without breaking everything else. That’s why Object-Oriented Programming is so powerful: it makes our code work like a real system of cooperating modules.”
+> “Classes give us a way to **group related data and behavior** into one component. Just like a hardware controller manages a part of a device, a class manages a part of a software system. And the beauty is, once we build a class, we can reuse it, upgrade it, or swap it — without breaking everything else. That’s why Object-Oriented Programming is so powerful: it makes our code work like a real system of cooperating modules.”
 
 Before jumping into how to use this repo. I wanted to also link you to a few other related topics.
 - Summary of [Solid Design Principles](solid_design_principles.md)
 - Summary of [The 4 Pillars of Object-oriented Programming](the_4_pillars_object_oriented_programming_oop.md)
 
- Both these reads should help inform you as to why OOP might be a brilliant way to organize and design code. 
+Both these summaries should help inform you as to why OOP might be a brilliant way to organize and design code. 
 
-With those in mind, I wanted to share with you some of my favorite relevant quotes from Sandy Metz, "Practical Object Oriented Design in Ruby"
+With those in mind, I wanted to share with you some of my favorite relevant quotes from **Sandy Metz**, "*Practical Object Oriented Design in Ruby*"
 
 > "Applications that are easy to change are a pleasure to write and joy to extend. There flexible adaptable. Applications that resist change are just the opposite."
 
 > **“Code is read more than it is written.”**  
 > This is a classic — but Sandi often emphasizes it to remind us that **clarity beats cleverness*
 
-**“The cost of change is a better measure of software quality than the number of bugs or lines of code.”**  
+> **“The cost of change is a better measure of software quality than the number of bugs or lines of code.”**  
 It’s not about how “correct” or “efficient” your code looks — it’s about how much it hurts to change it.
 
-Next steps?
 
 ## First you must go over Pre-Lesson Checklist
 You can check out the Pre Lesson Check List [here](pre_lesson_check_list.md)
