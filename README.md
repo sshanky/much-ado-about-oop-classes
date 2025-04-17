@@ -59,10 +59,9 @@ After you've accomplished this. You are ready to start using this repo.
 
 
 ## How to Run it
-1.  Clone this repo (yes, you’re using Git now, Steve — welcome to the club):
+1.  Clone this repo (yes, you’re officially using Git now — welcome to the club! 🎉):
 ```
-  git clone https://github.com/your-username/muchadoaboutoop.git
-  cd coffee-machine
+  git clone git@github.com:Trishthedish/much-ado-about-oop-classes.git
 ```
 
 2. Run the script and watch the magic happen ✨
