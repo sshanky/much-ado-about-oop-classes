@@ -66,16 +66,21 @@ After you've accomplished this. You are ready to start using this repo.
 ```
 
 2. Run the script and watch the magic:
+* Stuck with the use of python3, but if you decide to use pyenv - you can decide which precise version of python to use.
+In which case, if you have your local or global environment set. You can either use `python <name of python file>.py to run.
+
 ```
 python3 coffee_machine.py
-python3 <name of file with class you want to see>
 python3 cute_dog.py
+python3 everything_is_an_object_in_oop.py
+python3 <name of python file to run>.py
 ```
 3. Want to run tests?
 
 ```
 python3 -m unittest test_coffee_machine.py
-python3 <name of test>
 # this one is purposedly broken - so you can see broken test and fix it.
 python3 test_cute_dogs.py
+python3 test_coffee_machine.py
+python3 <name of test python file>.py
 ```
