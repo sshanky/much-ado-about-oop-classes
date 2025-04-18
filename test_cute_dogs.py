@@ -8,7 +8,7 @@ class TestCuteDogs(unittest.TestCase):
         self.assertIn("tiger", fifi.describe())
         self.assertIn("sweetheart", fifi.cuddle())
         # purposely broke this test. So that you can fix this Steve.
-        self.assertIn("tiny", fifi.speak().lower())
+        self.assertIn("tiniest", fifi.speak().lower())
 
     def test_ellie(self):
         e = Ellie()
